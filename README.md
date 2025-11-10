@@ -12,6 +12,11 @@ A **clean and elegant book voting platform** that lets readers vote for their fa
 ![Tomcat](https://img.shields.io/badge/Tomcat-8.5%2B-orange)
 ![Maven](https://img.shields.io/badge/Maven-3.6%2B-green)
 
+<img width="2555" height="1558" alt="image" src="https://github.com/user-attachments/assets/b9032866-fff9-4431-9570-7df74764aa49" />
+<img width="2407" height="1491" alt="image" src="https://github.com/user-attachments/assets/fdb75f51-6e2e-40cb-8213-f47e1ef9dcf3" />
+<img width="2553" height="1459" alt="image" src="https://github.com/user-attachments/assets/4d2ccc3f-b8cc-4148-bc39-2e7f68575b48" />
+<img width="1241" height="1291" alt="image" src="https://github.com/user-attachments/assets/0441ddf4-7a3f-42d2-9807-398f8e545236" />
+
 ---
 
 ## Features
@@ -76,10 +81,6 @@ textbookvote/
 
 Screenshots
 Upload these to a screenshots/ folder
-<img width="2555" height="1558" alt="image" src="https://github.com/user-attachments/assets/b9032866-fff9-4431-9570-7df74764aa49" />
-<img width="2407" height="1491" alt="image" src="https://github.com/user-attachments/assets/fdb75f51-6e2e-40cb-8213-f47e1ef9dcf3" />
-<img width="2553" height="1459" alt="image" src="https://github.com/user-attachments/assets/4d2ccc3f-b8cc-4148-bc39-2e7f68575b48" />
-<img width="1241" height="1291" alt="image" src="https://github.com/user-attachments/assets/0441ddf4-7a3f-42d2-9807-398f8e545236" />
 
 
 
